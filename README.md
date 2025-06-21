@@ -2,4 +2,4 @@
 ## Links to other projects
 
 [my link](http://www.cnn.com)
-[http://wwww.cnn.com](cnn)
+
