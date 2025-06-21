@@ -3,3 +3,5 @@
 
 [my link](http://www.cnn.com)
 
+## My objectives
+* Learn how to do shit. 
